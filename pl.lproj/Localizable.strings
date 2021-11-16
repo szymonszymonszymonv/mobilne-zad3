@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  zadd1
+
+  Created by student on 16/11/2021.
+  Copyright © 2021 JG. All rights reserved.
+*/
+"Information"="Informacja";
+"The faculty is running %i programs on graduate and undergraduate level."="Na wydziale prowadzone są %i programy na poziomie magisterskim i licencjackim";
+"image"="wi-pl";
